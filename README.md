@@ -1,6 +1,8 @@
 # Timeline
 
-**Tech Stack:** HTML5 | CSS3 | Vanilla JavaScript
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge)
+![Vanilla JavaScript](https://img.shields.io/badge/Vanilla_JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 A responsive vertical timeline built with HTML5, CSS3, and vanilla JavaScript. It presents chronological events in an alternating layout on larger screens and a single-column layout on mobile, with animated reveals as visitors scroll.
 
